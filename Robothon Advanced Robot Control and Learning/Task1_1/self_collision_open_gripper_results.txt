@@ -1,0 +1,680 @@
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: true, 
+	 collision groups : {4 : FrankaGripper_visible Franka_link6} 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: true, 
+	 collision groups : {9 : FrankaGripper_visible Franka_link6} 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: true, 
+	 collision groups : {19 : Franka_link3 FrankaGripper_leftFinger_visible} 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: true, 
+	 collision groups : {36 : Franka_link2 FrankaGripper_leftFinger_visible} 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: true, 
+	 collision groups : {40 : Franka_link2 FrankaGripper_visible} 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: true, 
+	 collision groups : {54 : Franka Franka_link7} 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: true, 
+	 collision groups : {72 : Franka FrankaGripper_leftPad_visible} 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: true, 
+	 collision groups : {80 : Franka_link2 FrankaGripper_visible} 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: true, 
+	 collision groups : {84 : Franka Franka_link6} 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: true, 
+	 collision groups : {86 : Franka Franka_link8} 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: true, 
+	 collision groups : {127 : FrankaGripper_visible Franka_link6} 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: true, 
+	 collision groups : {133 : Franka Franka_link7} 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: true, 
+	 collision groups : {151 : Franka Franka_link6} 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: true, 
+	 collision groups : {163 : Franka FrankaGripper_visible} 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: false, 
+ 	 collision groups : { } 
+}"
+"{ 
+ 	 collision: true, 
+	 collision groups : {170 : Franka Franka_link8} 
+}"
