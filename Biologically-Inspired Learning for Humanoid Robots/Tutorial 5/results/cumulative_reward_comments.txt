@@ -1,0 +1,34 @@
+Setup
+    Fixed robot and goal post locations (robot centered at ~1m distance)
+    The robot controls 5 states (hip roll angle) and 3 actions (in/out/kick)
+    One additional, terminal state, not corresponding to a specific hip angle,
+        is added to the state space.
+    The goalie is static in one of 3 positions between the goal posts
+
+Obtainable rewards
+    Moving the leg in/out one step: -1
+    Trying to move the leg in/out, when already at max in/out: -5
+    Kicking the ball, but missing the goal: -20
+    Kicking the ball and scoring a goal: 20
+
+Plot
+    The blue line shows the cumulative reward (per episode) over 20 episodes
+    The red lines indicate a change in goalie position
+
+Observations
+    The robot perceives the goalie in the beginning of each episode
+    The robot explores after negative reward is presented
+    Once positive reward is presented, the robot exploits heavily and it is
+        hard to return to an exploratory mode
+    In the beginning of each new setup the reward is bad, but the robot learns
+        quickly and avoids "extreme" leg positions
+    Different goalie positions (and the corresponding behaviour) are learnt
+        independently
+    Uneven ground surface and slight variations in ball/robot setup sometimes
+        influence the results
+
+Future work
+    Training for more episodes
+    More fine-grained states (hip roll angles/goalie positions)
+    Fine-tuning parameters (discount rate, reward values, exploration bonus)
+    Code clean-up

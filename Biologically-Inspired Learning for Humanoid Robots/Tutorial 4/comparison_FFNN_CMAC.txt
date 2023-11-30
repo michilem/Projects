@@ -1,0 +1,26 @@
+FFNN
+    Pros:
+    - Interpolates well in areas with few training samples
+    - Converges quickly (~10 epochs) to a well-performing state
+    - Enables advanced architectural choices with different layer types and ordering
+
+    Cons:
+    - Computationally heavy, especially with larger networks (does not apply to our joint prediction)
+    - Potentially difficult to find global minima in the cost function
+
+CMAC
+    Pros:
+    - Very quick and efficient implementation only depending on number of association neurons (lookup table)
+    - Training is simple to understand and implement
+    - Performs well given a rather simple task and a reasonable amount of training data
+    - Unbalanced training data does not affect global training progress
+
+    Cons:
+    - More weights are necessary (in our case 50x50x0.2 compared to the 2-layer mlp using 2x16x2)
+    - Does not interpolate well in areas with few training samples
+    - Hardly able to perform complicated tasks
+    - Hardly possible to visualize more than two input parameters
+    - Sparsity-generalization-trade-off
+        - very sparse: good generalization, but not able to learn as well as possible
+        - rather dense: bad generalization, but able to learn training data well
+    - Hash collision can become problematic (does not apply to our joint prediction)
