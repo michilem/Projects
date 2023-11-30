@@ -1,0 +1,6 @@
+dataset source:
+https://archive.ics.uci.edu/ml/datasets/forest+fires
+by Paulo Cortez and Aníbal Morais
+
+additional information and explanation:
+https://www.nwcg.gov/publications/pms437/cffdrs/fire-weather-index-system
